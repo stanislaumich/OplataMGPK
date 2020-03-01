@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.bdsproj,S:\_programming\_УчетОплаты\OPLATA.bdsproj=C:\Users\Станислав\Documents\Borland Studio Projects\Project1.bdsproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,S:\_programming\_УчетОплаты\UMain.pas=C:\Users\Станислав\Documents\Borland Studio Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,S:\_programming\_УчетОплаты\UMain.dfm=C:\Users\Станислав\Documents\Borland Studio Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.556,=S:\_programming\_УчетОплаты\ModelSupport_OPLATA\OPLATA\default.txvpck</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.277,=S:\_programming\_УчетОплаты\ModelSupport_OPLATA\default.txvpck</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.391,=S:\_programming\_УчетОплаты\ModelSupport_OPLATA\default.txaPackage</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.945,=S:\_programming\_УчетОплаты\ModelSupport_OPLATA\UMain\default.txaPackage</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.084,=S:\_programming\_УчетОплаты\ModelSupport_OPLATA\UMain\default.txvpck</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet version="1.0">
+  <view uin="bfaeieinb8o_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:OPLATA:UMain.@unitclass">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_field:src:OPLATA:UMain.@unitclass.Form1" />
+      <reference referencedUin="delphi:l_ast:src:OPLATA:UMain.@unitclass.Form1" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:OPLATA:UMain.TForm1">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="10,10,178,445" />
+      <reference referencedUin="delphi:e_field:src:OPLATA:UMain.TForm1.Panel1" />
+      <reference referencedUin="delphi:e_field:src:OPLATA:UMain.TForm1.PageControl1" />
+      <reference referencedUin="delphi:e_field:src:OPLATA:UMain.TForm1.StatusBar1" />
+      <reference referencedUin="delphi:e_field:src:OPLATA:UMain.TForm1.TabSheet1" />
+      <reference referencedUin="delphi:e_field:src:OPLATA:UMain.TForm1.TabSheet2" />
+      <reference referencedUin="delphi:e_field:src:OPLATA:UMain.TForm1.TabSheet3" />
+      <reference referencedUin="delphi:e_field:src:OPLATA:UMain.TForm1.GroupBox1" />
+      <reference referencedUin="delphi:e_field:src:OPLATA:UMain.TForm1.ComboBox1" />
+      <reference referencedUin="delphi:e_field:src:OPLATA:UMain.TForm1.ListBox1" />
+      <reference referencedUin="delphi:e_field:src:OPLATA:UMain.TForm1.GroupBox2" />
+      <reference referencedUin="delphi:e_field:src:OPLATA:UMain.TForm1.StringGrid1" />
+      <reference referencedUin="delphi:e_field:src:OPLATA:UMain.TForm1.TabSheet4" />
+      <reference referencedUin="delphi:e_field:src:OPLATA:UMain.TForm1.GroupBox3" />
+      <reference referencedUin="delphi:e_field:src:OPLATA:UMain.TForm1.ListBox2" />
+      <reference referencedUin="delphi:e_field:src:OPLATA:UMain.TForm1.BitBtn1" />
+      <reference referencedUin="delphi:e_field:src:OPLATA:UMain.TForm1.BitBtn2" />
+      <reference referencedUin="delphi:e_field:src:OPLATA:UMain.TForm1.GroupBox4" />
+      <reference referencedUin="delphi:e_field:src:OPLATA:UMain.TForm1.Memo1" />
+      <reference referencedUin="delphi:e_field:src:OPLATA:UMain.TForm1.GroupBox5" />
+      <reference referencedUin="delphi:e_field:src:OPLATA:UMain.TForm1.GroupBox6" />
+      <reference referencedUin="delphi:e_field:src:OPLATA:UMain.TForm1.GroupBox7" />
+      <reference referencedUin="delphi:e_field:src:OPLATA:UMain.TForm1.TabSheet5" />
+      <reference referencedUin="delphi:e_method:src:OPLATA:UMain.TForm1.BitBtn2Click(System.TObject)" />
+      <reference referencedUin="delphi:e_method:src:OPLATA:UMain.TForm1.FormActivate(System.TObject)" />
+    </reference>
+  </view>
+</nodeSet>
